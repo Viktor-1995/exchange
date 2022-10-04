@@ -1,0 +1,11 @@
+.main-container{
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+}
+.main-wrap{
+    width: 500px;
+}
+h4{
+    padding: 1rem;
+}
